@@ -1,0 +1,54 @@
+[19-Oct-2018 22:33:55 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:33:55 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:33:55 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:34:07 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:34:07 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:34:07 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:34:09 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:34:09 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:34:09 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:34:10 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:34:10 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:34:10 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:34:11 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:34:11 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:34:11 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:34:16 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:34:16 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:34:16 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:34:18 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:34:18 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:34:18 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:34:38 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:34:38 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:34:38 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:37:04 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:37:04 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:37:04 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:46:03 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:46:03 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:46:03 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:46:44 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:46:44 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:46:44 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:51:17 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:51:17 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:51:17 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:51:18 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:51:18 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:51:18 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:51:22 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:51:22 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:51:22 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:51:24 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:51:24 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:51:24 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:51:49 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:51:49 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:51:49 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:54:28 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:54:28 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:54:28 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
+[19-Oct-2018 22:54:59 Europe/Bucharest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 9
+[19-Oct-2018 22:54:59 Europe/Bucharest] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 114
+[19-Oct-2018 22:54:59 Europe/Bucharest] PHP Notice:  Trying to get property of non-object in /home/tutoria1/public_html/atestat_gratuit/contact.php on line 115
